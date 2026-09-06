@@ -37,7 +37,7 @@ The central claim is deliberately narrow:
 
 - Português (primary): [`paper.md`](paper.md) - full preprint (v1.0).
 - English: [`paper.en.md`](paper.en.md) - full preprint (v1.0).
-- Online (GitHub Pages): https://tedfernandes.github.io/business-agents/
+- Online (GitHub Pages): https://tedfernandes.github.io/business-agents-research/
 
 ## Status and honesty note
 
