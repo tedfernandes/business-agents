@@ -40,7 +40,7 @@ A tese, propositalmente estreita:
 
 - Português (principal): [`paper.md`](paper.md) - preprint completo (v1.0).
 - English: [`paper.en.md`](paper.en.md) - full preprint, English (v1.0).
-- Online (GitHub Pages): https://tedfernandes.github.io/business-agents/
+- Online (GitHub Pages): https://tedfernandes.github.io/business-agents-research/
 
 ## Status e nota de honestidade
 
